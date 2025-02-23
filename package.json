@@ -1,0 +1,13 @@
+{
+  "name": "you're so cute",
+  "version": "1.0.0",
+  "description": "i really just like at you",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "dev": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
