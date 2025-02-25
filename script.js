@@ -122,7 +122,7 @@ function getFarPosition(containerRect, windowWidth, windowHeight, buttonWidth, b
 
 yesBtn.addEventListener('click', () => {
     title.innerHTML = "YIIPPPIIEEE!!";
-    document.querySelector('img').src = "https://tenor.com/view/cat-jump-happy-jumping-for-joy-jumping.gif";
+    document.querySelector('img').src = "https://media.tenor.com/DpJdyKQKgYkAAAAj/cat-jump.gif";
     noBtn.style.display = 'none';
     yesBtn.style.display = 'none';
     bgMusic.play();
