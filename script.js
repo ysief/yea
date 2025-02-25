@@ -9,11 +9,11 @@ window.addEventListener('load', () => {
 const messages = [
     {
         text: "pencet 'yes' kocak",
-        image: "https://pin.it/r27JNExG9Penyimpanan internal/Pictures/100PINT/Pins/52064930ba47b5b64d80f0aff1ad0921.jpg"
+        image: https://i.pinimg.com/736x/1e/7c/6f/1e7c6ff7a0c26f7eaefbce683656193d.jpg"
     },
     {
         text: "kalo klik kiri nanti dikasi coklat",
-        image: "https://pin.it/1ha6UK8vi52064930ba47b5b64d80f0aff1ad0921.jpg"
+        image: "https://i.pinimg.com/736x/90/73/a9/9073a9359bff531cd830ae7384752934.jpg"
     },
     {
         text: "terakhir nih, yakali masi nolak?",
@@ -122,7 +122,7 @@ function getFarPosition(containerRect, windowWidth, windowHeight, buttonWidth, b
 
 yesBtn.addEventListener('click', () => {
     title.innerHTML = "YIIPPPIIEEE!!!";
-    document.querySelector('img').src = "https://pin.it/7jtZWdkaY";
+    document.querySelector('img').src = "https://tenor.com/view/cat-jump-happy-jumping-for-joy-jumping-gif-23625303";
     noBtn.style.display = 'none';
     yesBtn.style.display = 'none';
     bgMusic.play();
