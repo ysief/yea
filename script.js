@@ -8,15 +8,15 @@ window.addEventListener('load', () => {
 
 const messages = [
     {
-        text: "pencet 'yes' kocak",
+        text: "plss mau dong",
         image: "https://i.pinimg.com/736x/1e/7c/6f/1e7c6ff7a0c26f7eaefbce683656193d.jpg"
     },
     {
-        text: "kalo klik kiri nanti dikasi coklat",
+        text: "pls klik yg kiri",
         image: "https://i.pinimg.com/736x/90/73/a9/9073a9359bff531cd830ae7384752934.jpg"
     },
     {
-        text: "terakhir nih, yakali masi nolak?",
+        text: "terakhir, kalo \"no\" yauda deh",
         image: "https://i.pinimg.com/736x/a6/43/f5/a643f5a40db387585b56bc767b66fddb.jpg"
     }
 ];
@@ -121,7 +121,7 @@ function getFarPosition(containerRect, windowWidth, windowHeight, buttonWidth, b
 }
 
 yesBtn.addEventListener('click', () => {
-    title.innerHTML = "YIIPPPIIEEE!!!";
+    title.innerHTML = "YIIPPPIIEEE!!";
     document.querySelector('img').src = "https://tenor.com/view/cat-jump-happy-jumping-for-joy-jumping-gif-23625303";
     noBtn.style.display = 'none';
     yesBtn.style.display = 'none';
@@ -134,7 +134,7 @@ noBtn.addEventListener('click', () => {
         title.innerHTML = messages[noCount - 1].text;
         document.querySelector('img').src = messages[noCount - 1].image;
     } else {
-        title.innerHTML = "TAPI BOONG WKAKWKAKWKA";
+        title.innerHTML = "TAPI BOONG WKAKWKAW";
         if (!noBtn.classList.contains('running')) {
             noBtn.classList.add('running');
         }
