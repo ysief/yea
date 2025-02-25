@@ -13,7 +13,7 @@ const messages = [
     },
     {
         text: "kalo klik kiri nanti dikasi coklat",
-        image: "https://i.pinimg.com/736x/90/73/a9/9073a9359bff531cd830ae7384752934.jpg"
+        image: https://pin.it/1ha6UK8vi"
     },
     {
         text: "terakhir nih, yakali masi nolak?",
