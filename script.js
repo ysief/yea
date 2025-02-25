@@ -9,11 +9,11 @@ window.addEventListener('load', () => {
 const messages = [
     {
         text: "pencet 'yes' kocak",
-        image: "https://pin.it/r27JNExG9"
+        image: "https://pin.it/r27JNExG9Penyimpanan internal/Pictures/100PINT/Pins/52064930ba47b5b64d80f0aff1ad0921.jpg"
     },
     {
         text: "kalo klik kiri nanti dikasi coklat",
-        image: "https://pin.it/1ha6UK8vi"
+        image: "https://pin.it/1ha6UK8vi52064930ba47b5b64d80f0aff1ad0921.jpg"
     },
     {
         text: "terakhir nih, yakali masi nolak?",
