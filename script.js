@@ -8,15 +8,15 @@ window.addEventListener('load', () => {
 
 const messages = [
     {
-        text: "plic mw yyaa",
+        text: "pencet 'yes' kocak",
         image: "https://i.pinimg.com/736x/1e/7c/6f/1e7c6ff7a0c26f7eaefbce683656193d.jpg"
     },
     {
-        text: "klik yg kiri dong bang al",
+        text: "kalo klik kiri nanti dikasi coklat",
         image: "https://i.pinimg.com/736x/90/73/a9/9073a9359bff531cd830ae7384752934.jpg"
     },
     {
-        text: "terakhir, kalo \"no\" yauda deh",
+        text: "terakhir nih, yakali masi nolak?",
         image: "https://i.pinimg.com/736x/a6/43/f5/a643f5a40db387585b56bc767b66fddb.jpg"
     }
 ];
